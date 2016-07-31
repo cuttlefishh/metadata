@@ -1,4 +1,4 @@
-## Metadata generation and refinement
+## Python notebooks and scripts for handling EMP metadata
 
 ### Metadata exploration and refinement
 
