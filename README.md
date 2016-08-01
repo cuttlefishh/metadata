@@ -72,7 +72,10 @@ Example:
 Issues:
 
 * Still need to decide how to record units.
-* Text input is all free text.
+	1. MIxS recommends to add the units to the column. 
+	2. Another approch is to create a separate column for the units, either directly or parsed from (1).
+	3. Either way, we want a separate document that describes the units for each column plus full description for any non-standard columns.
+* Text input is all free text. We need a smarter way to suggest and enforce valid inputs. Similar to the old QIIME-db but with more features.
 
 ### Future: web-based metadata input with contextual input (smart type detection and graphical metadata feedback)
 
