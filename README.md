@@ -11,7 +11,7 @@
 Inputs
 
 * Individual Qiime mapping files (list of studies and path to directory)
-* NCBI taxonomy files (names.dmp)
+* NCBI taxonomy files ([names.dmp](ftp://ftp.ncbi.nih.gov/pub/taxonomy))
 * EMP Ontology data dictionary (.xlsx)
 * Study titles and quality information (.xlsx)
 * Observations -- sequences after split libraries, mapped sequences after OTU picking -- per sample (.tsv)
