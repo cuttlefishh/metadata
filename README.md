@@ -5,7 +5,7 @@
 `emp20k_metadata_explore.ipynb`
 <https://github.com/cuttlefishh/metadata/blob/master/emp20k_metadata_explore.ipynb>
 
-`emp20k_metadata_refine.ipynb`
+`emp20k_metadata_refine.ipynb` -- now located in https://github.com/biocore/emp
 <https://github.com/cuttlefishh/metadata/blob/master/emp20k_metadata_refine.ipynb>
 
 Inputs
